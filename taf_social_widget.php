@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Tell a friend Widget Plugin
+Plugin Name: Tell-a-Friend Widget Plugin
 Plugin URI: http://tellafriend.socialtwist.com
-Description: Tell a friend Widget Plugin for Wordpress
+Description: Tell-a-Friend Widget Plugin for Wordpress
 Version: 1.0
 Author: socialtwist
 Author URI: http://tellafriend.socialtwist.com

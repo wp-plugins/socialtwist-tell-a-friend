@@ -1,7 +1,7 @@
 === Plugin Name ===
-Contributors: SocialTwist Team
+Contributors: SocialTwist
 Donate link: 
-Tags: widget
+Tags: widget, social, tell a friend, announce
 Requires at least: 2.0
 Tested up to: 2.6
 Stable tag: trunk
@@ -23,7 +23,7 @@ This section describes how to install the plugin and get it working.
 
 == Frequently Asked Questions ==
 
-Please visit <http://tellafriend.socialtwist.com/learn-more.jsp> if you have any questions. Thank you!
+Please visit <http://tellafriend.socialtwist.com/learn-more.jsp>. If you have any questions please contact us at support (at) socialtwist (dot) com. Thank you!
 
 == Screenshots ==
 
