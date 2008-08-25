@@ -23,13 +23,12 @@ This section describes how to install the plugin and get it working.
 
 == Frequently Asked Questions ==
 
-Please visit <http://tellafriend.socialtwist.com> if you have any questions. Thank you!
+Please visit <http://tellafriend.socialtwist.com/learn-more.jsp> if you have any questions. Thank you!
 
 == Screenshots ==
 
-1. Login to your WordPress admin and navigate to the plugin section by clicking on the "Plugins" link on the top right.
-2. You will notice a new entry called "Tell-a-Friend Widget Plugin". Click on "Activate" next to the plugin name. 
-   This will activate the plugin and now you can find the Tell-a-Friend button at the bottom left of your blog posts.
+1. Widget opened
+2. Widget in action
 
 
 Features:
