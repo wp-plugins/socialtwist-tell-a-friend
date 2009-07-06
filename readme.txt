@@ -23,7 +23,7 @@ This section describes how to install the plugin and get it working.
 
 == Frequently Asked Questions ==
 
-Please visit <http://tellafriend.socialtwist.com/learn-more.jsp>. If you have any questions please contact us at support (at) socialtwist (dot) com. Thank you!
+Please visit <http://tellafriend.socialtwist.com/about.jsp>. If you have any questions please contact us at support (at) socialtwist (dot) com. Thank you!
 
 == Screenshots ==
 
